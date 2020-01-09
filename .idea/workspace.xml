@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e06dbc7-b4c5-48cb-b209-260c88e671fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +15,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1W5XVBWc1bzPq4z5hDW3tMMhJo2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -53,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578440450523</updated>
       <workItem from="1578440454734" duration="7879000" />
-      <workItem from="1578527485236" duration="2864000" />
+      <workItem from="1578527485236" duration="4828000" />
     </task>
     <servers />
   </component>
@@ -61,14 +73,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="232" y="203" key="#HTML" timestamp="1578533759007">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="232" y="203" key="#HTML/0.0.2560.1080/2560.1.1920.1080@0.0.2560.1080" timestamp="1578533759007" />
     <state x="415" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578441397608">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
     <state x="415" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1080/2560.1.1920.1080@0.0.2560.1080" timestamp="1578441397608" />
-    <state x="156" y="188" key="SettingsEditor" timestamp="1578529314557">
+    <state x="129" y="153" width="991" height="790" key="SettingsEditor" timestamp="1578534269653">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="156" y="188" key="SettingsEditor/0.0.2560.1080/2560.1.1920.1080@0.0.2560.1080" timestamp="1578529314557" />
+    <state x="129" y="153" width="991" height="790" key="SettingsEditor/0.0.2560.1080/2560.1.1920.1080@0.0.2560.1080" timestamp="1578534269653" />
     <state x="296" y="254" width="672" height="677" key="run.anything.popup" timestamp="1578444485711">
       <screen x="0" y="0" width="2560" height="1080" />
     </state>
